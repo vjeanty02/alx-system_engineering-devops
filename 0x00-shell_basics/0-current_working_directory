@@ -1,2 +1,2 @@
 #!/bin/bash 
-./0-current_working_directory | wc -l
+ wc -l 0-current_working_directory 
