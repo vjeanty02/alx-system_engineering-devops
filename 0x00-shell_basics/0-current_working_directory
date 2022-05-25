@@ -1,2 +1,2 @@
 #!/bin/bash 
-printf(./0-current_working_directory\n)
+printf(./0-current_working_directory + "\n")
