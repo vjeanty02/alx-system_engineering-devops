@@ -1,1 +1,2 @@
-#!/bin/bash printf(./0-current_working_directory)
+#!/bin/bash 
+printf(./0-current_working_directory\n)
